@@ -4,17 +4,30 @@
   <meta charset="utf-8">
   
   
-  <title>拓扑智能产品与技术</title>
+  <title>产品与方案 | 拓扑智能产品与技术</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="拓扑智能（TOPOS AI）是领先的空间智能解决方案提供商。我们直面物理世界数字化中的核心瓶颈——“数据峡谷”，通过自研的“**感知-重建-理解-赋能**”全链路技术闭环，拓扑空间数据，将混乱的原始数据（影像、点云）实时转化为可计算、可交互的语义化数字孪生。我们的平台通过API和MCP协议，直接赋能AI智能体、机器人及行业应用，重塑智慧交通、仓储物流、智慧城市、工业制造等关键领域的场景智能。">
-<meta property="og:type" content="website">
-<meta property="og:title" content="拓扑智能产品与技术">
-<meta property="og:url" content="https://liqingjian-gis.github.io/ToposAI/index.html">
+  <meta name="description" content="解决方案：TOPOS一站式空间智能平台——从数据到智能的转换器 我们提供“软硬结合”的一站式解决方案，旨在 “拓扑空间数据，重塑场景智能” 。 核心产品矩阵  Livo系列智能采集硬件（感知触角） 定位： 移动的智能数据采集节点，实现“感知即采集”。 产品线： 覆盖手持（X系列）、机器人（G系列）、无人机（H系列）全系列。 价值： 为云端自动化处理提供高质量、标准化的空间数据源。      TOP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="产品与方案">
+<meta property="og:url" content="https://liqingjian-gis.github.io/ToposAI/%E4%BA%A7%E5%93%81%E4%B8%8E%E6%96%B9%E6%A1%88">
 <meta property="og:site_name" content="拓扑智能产品与技术">
-<meta property="og:description" content="拓扑智能（TOPOS AI）是领先的空间智能解决方案提供商。我们直面物理世界数字化中的核心瓶颈——“数据峡谷”，通过自研的“**感知-重建-理解-赋能**”全链路技术闭环，拓扑空间数据，将混乱的原始数据（影像、点云）实时转化为可计算、可交互的语义化数字孪生。我们的平台通过API和MCP协议，直接赋能AI智能体、机器人及行业应用，重塑智慧交通、仓储物流、智慧城市、工业制造等关键领域的场景智能。">
+<meta property="og:description" content="解决方案：TOPOS一站式空间智能平台——从数据到智能的转换器 我们提供“软硬结合”的一站式解决方案，旨在 “拓扑空间数据，重塑场景智能” 。 核心产品矩阵  Livo系列智能采集硬件（感知触角） 定位： 移动的智能数据采集节点，实现“感知即采集”。 产品线： 覆盖手持（X系列）、机器人（G系列）、无人机（H系列）全系列。 价值： 为云端自动化处理提供高质量、标准化的空间数据源。      TOP">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\image-20251011115958396.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017113558_25_2.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017143108_26_2.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017173357_28_2.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017091554_22_2.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017091632_23_2.png">
+<meta property="og:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251017092003_24_2.png">
+<meta property="article:published_time" content="2025-10-20T15:19:40.000Z">
+<meta property="article:modified_time" content="2025-10-20T15:22:06.708Z">
 <meta property="article:author" content="拓扑智能">
+<meta property="article:tag" content="产品">
+<meta property="article:tag" content="平台">
+<meta property="article:tag" content="应用">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="d:\TopoSpace\ToposAi\001@%E5%85%AC%E5%8F%B8%E7%AD%96%E5%88%92\003@%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88%E5%AE%A3%E4%BC%A0\image-20251011115958396.png">
   
     <link rel="alternate" href="/ToposAI/atom.xml" title="拓扑智能产品与技术" type="application/atom+xml">
   
@@ -75,9 +88,7 @@
 </header>
 
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-产品与方案" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <section id="main"><article id="post-产品与方案" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/ToposAI/%E4%BA%A7%E5%93%81%E4%B8%8E%E6%96%B9%E6%A1%88" class="article-date">
   <time class="dt-published" datetime="2025-10-20T15:19:40.000Z" itemprop="datePublished">2025-10-20</time>
@@ -90,8 +101,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/ToposAI/%E4%BA%A7%E5%93%81%E4%B8%8E%E6%96%B9%E6%A1%88">产品与方案</a>
+    <h1 class="p-name article-title" itemprop="headline name">
+      产品与方案
     </h1>
   
 
@@ -260,62 +271,19 @@
     </footer>
   </div>
   
-</article>
-
-
-
+    
+<nav id="article-nav">
   
-    <article id="post-hello-world" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/ToposAI/2025/10/20/hello-world/" class="article-date">
-  <time class="dt-published" datetime="2025-10-20T09:33:26.295Z" itemprop="datePublished">2025-10-20</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
   
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/ToposAI/2025/10/20/hello-world/">Hello World</a>
-    </h1>
+    <a href="/ToposAI/2025/10/20/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">Hello World</div>
+    </a>
   
+</nav>
 
-      </header>
-    
-    <div class="e-content article-entry" itemprop="articleBody">
-      
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="https://liqingjian-gis.github.io/ToposAI/2025/10/20/hello-world/" data-id="cmgza46920000m0hthsj96gw3" data-title="Hello World" class="article-share-link"><span class="fa fa-share">分享</span></a>
-      
-      
-      
-    </footer>
-  </div>
   
 </article>
-
-
-
-  
 
 
 </section>
